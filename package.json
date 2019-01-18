@@ -1,5 +1,5 @@
 {
-    "name": "@ironfly/lru-diskcache",
+    "name": "lru-diskcache",
     "version": "1.1.2",
     "description": "A disk cache object that deletes the least-recently-used items.",
     "author": "Samy Pesse <samypesse@gmail.com>",
